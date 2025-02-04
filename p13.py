@@ -47,7 +47,7 @@ def storedinput(file1):
           print("File not found")
 storedinput("output.txt")'''
 
-f = open("file1.txt",'w')
+'''f = open("file1.txt",'w')
 def copylines(file1, file2):
     try:
         f1=open(file1, 'r')
@@ -63,7 +63,7 @@ def copylines(file1, file2):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-copylines('file1.txt', 'file2.txt')
+copylines('file1.txt', 'file2.txt')'''
 
   
    
